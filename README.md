@@ -1,6 +1,6 @@
 <h1 align="center">Kaushal Raj</h1>
 
-<h3 align="center">Software Engineer &nbsp;·&nbsp; Backend & Full Stack &nbsp;·&nbsp; Systems & DSA</h3>
+<h3 align="center">Backend & Full Stack Developer &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Systems & DSA</h3>
 
 <p align="center">
   B.Tech Computer Science &nbsp;|&nbsp; Asansol Engineering College &nbsp;|&nbsp; Class of 2027
@@ -36,7 +36,7 @@
 
 ## About
 
-Backend-focused software engineer with hands-on experience building production-grade systems — AI-powered incident management platforms, secure cloud file storage, and high-performance C++ applications. Strong foundation in data structures, algorithms, and system design. 300+ DSA problems solved across LeetCode, Codeforces, and HackerRank (5-star rating).
+Backend-focused developer with hands-on experience building production-grade systems — AI-powered incident management platforms, secure cloud file storage, and high-performance C++ applications. Strong foundation in data structures, algorithms, and system design. 300+ problems solved across LeetCode and HackerRank (5-star rating).
 
 Comfortable across the full stack but most at home in backend architecture, API design, and systems programming.
 
