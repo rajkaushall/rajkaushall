@@ -1,17 +1,152 @@
+<h1 align="center">Kaushal Raj</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quietsyntax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkaushall) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/quietsyntaxx) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/rajkaushall) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajkaushal.tech@gmail.com) 
+<h3 align="center">Software Engineer &nbsp;·&nbsp; Backend & Full Stack &nbsp;·&nbsp; Systems & DSA</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajkaushall&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajkaushall&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajkaushall&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  B.Tech Computer Science &nbsp;|&nbsp; Asansol Engineering College &nbsp;|&nbsp; Class of 2027
+</p>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajkaushall/">
+    <img src="https://img.shields.io/badge/LinkedIn-rajkaushall-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/rajkaushall">
+    <img src="https://img.shields.io/badge/GitHub-rajkaushall-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/rajkaushall/">
+    <img src="https://img.shields.io/badge/LeetCode-rajkaushall-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/rajkaushall">
+    <img src="https://img.shields.io/badge/HackerRank-5★-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/quietsyntax/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-quietsyntax-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:rajkaushal.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajkaushal.tech@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajkaushall&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Backend-focused software engineer with hands-on experience building production-grade systems — AI-powered incident management platforms, secure cloud file storage, and high-performance C++ applications. Strong foundation in data structures, algorithms, and system design. 300+ DSA problems solved across LeetCode, Codeforces, and HackerRank (5-star rating).
+
+Comfortable across the full stack but most at home in backend architecture, API design, and systems programming.
+
+---
+
+## 🚀 Featured Projects
+
+### SignalOps — AI-Powered Incident Management Platform
+> *Production-grade backend system for real-time alert triage and resolution using LLM intelligence*
+
+Built an end-to-end incident management platform that integrates Gemini AI for automated alert summarization, root-cause suggestion, and guided resolution workflows. Designed the full backend pipeline including conversation history management, system-prompt injection, and asynchronous job queuing.
+
+- **Architecture:** Node.js/Express · Next.js/TypeScript · PostgreSQL + Prisma ORM · Redis/BullMQ · Docker
+- **AI Integration:** Google Gemini API · multi-turn conversation context · structured prompt engineering
+- **Infrastructure:** GitHub Actions CI/CD · Prometheus/Grafana observability · containerized deployment
+- **Repository:** [SignalOps](https://github.com/rajkaushall/SignalOps)
+
+---
+
+### 🔐 Secure File Storage System
+> *Zero-trust file storage backend with end-to-end encryption on cloud infrastructure*
+
+Designed and implemented a security-first file storage service with AES-256-GCM client-side encryption, key management via AWS KMS, and scoped access control. Built with a layered security model covering authentication, authorization, and data confidentiality at rest and in transit.
+
+- **Stack:** Node.js/TypeScript · PostgreSQL + Prisma · AWS S3 + KMS · Redis · Docker · Terraform/ECS Fargate
+- **Security:** AES-256-GCM encryption · JWT-based auth · IAM role scoping · encrypted key storage
+- **Repository:** [secure-file-storage](https://github.com/rajkaushall/secure-file-storage)
+
+---
+
+### ♟️ Chess Engine
+> *Full-featured C++ chess engine with classical AI search and board intelligence*
+
+Engineered a chess engine from scratch implementing complete move generation (including edge cases: castling, en passant, promotion), FEN string parsing, and an AI opponent using the Minimax algorithm with Alpha-Beta pruning for search-space optimization.
+
+- **Stack:** C++ · OOP · Bitboard representation · Alpha-Beta pruning · Minimax search
+- **Repository:** [chess-engine](https://github.com/rajkaushall/chess-engine)
+
+---
+
+### 📅 ChronoCLI — Terminal Calendar & Event Manager
+> *Modular C++ productivity tool built with production-grade engineering practices*
+
+Built a command-line calendar and event management system with persistent file-based storage, a modular CMake build system, and a comprehensive unit test suite. Configured GitHub Actions CI pipeline for automated builds and test runs.
+
+- **Stack:** C++ · STL · CMake · GitHub Actions CI · Unit Testing
+- **Repository:** [ChronoCLI](https://github.com/rajkaushall/ChronoCLI)
+
+---
+
+### 🌳 Deforestation & Forestation Detection
+> *ML-driven environmental analysis using satellite data and vegetation indices*
+
+Built a data analysis pipeline to detect deforestation and forestation trends using Landsat satellite imagery. Applied NDVI (Normalized Difference Vegetation Index) computation to quantify vegetation change over time using NumPy and Pandas for large-scale data processing.
+
+- **Stack:** Python · NumPy · Pandas · Scikit-learn · NDVI Analysis · Landsat Dataset
+- **Repository:** [deforestation-forestation](https://github.com/rajkaushall/deforestation-forestation)
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+`C++` &nbsp; `Python` &nbsp; `JavaScript` &nbsp; `TypeScript` &nbsp; `Java` &nbsp; `C`
+
+**Backend & APIs**
+`Node.js` &nbsp; `Express.js` &nbsp; `REST API Design` &nbsp; `Flask`
+
+**Frontend**
+`React` &nbsp; `Next.js` &nbsp; `HTML5` &nbsp; `CSS3`
+
+**Databases & Caching**
+`PostgreSQL` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Redis` &nbsp; `Prisma ORM`
+
+**Cloud, DevOps & Infrastructure**
+`Docker` &nbsp; `AWS (S3, KMS, ECS Fargate)` &nbsp; `Terraform` &nbsp; `GitHub Actions` &nbsp; `Prometheus` &nbsp; `Grafana`
+
+**AI & Data**
+`Gemini API` &nbsp; `OpenAI API` &nbsp; `Scikit-learn` &nbsp; `NumPy` &nbsp; `Pandas` &nbsp; `Prompt Engineering`
+
+**Core CS**
+`Data Structures & Algorithms` &nbsp; `OOP` &nbsp; `System Design` &nbsp; `Operating Systems` &nbsp; `Computer Networks`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajkaushall&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkaushall&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rajkaushall&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Competitive Programming
+
+| Platform | Achievement |
+|---|---|
+| LeetCode | 300+ problems solved · [rajkaushall](https://leetcode.com/rajkaushall/) |
+| HackerRank | 5-Star Rating · Problem Solving |
+| GeeksforGeeks | Active contributor · [quietsyntax](https://www.geeksforgeeks.org/user/quietsyntax/) |
+
+Focus areas: Dynamic Programming · Graph Algorithms · Greedy · Binary Search · Segment Trees
+
+---
+
+<p align="center">
+  <i>"Ship working software. Understand why it works. Make it better."</i>
+</p>
