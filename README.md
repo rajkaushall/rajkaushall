@@ -44,15 +44,33 @@ Comfortable across the full stack but most at home in backend architecture, API 
 
 ## 🚀 Featured Projects
 
-### SignalOps — AI-Powered Incident Management Platform
-> *Production-grade backend system for real-time alert triage and resolution using LLM intelligence*
 
-Built an end-to-end incident management platform that integrates Gemini AI for automated alert summarization, root-cause suggestion, and guided resolution workflows. Designed the full backend pipeline including conversation history management, system-prompt injection, and asynchronous job queuing.
+### SignalOps — Incident Management Platform
 
-- **Architecture:** Node.js/Express · Next.js/TypeScript · PostgreSQL + Prisma ORM · Redis/BullMQ · Docker
-- **AI Integration:** Google Gemini API · multi-turn conversation context · structured prompt engineering
-- **Infrastructure:** GitHub Actions CI/CD · Prometheus/Grafana observability · containerized deployment
-- **Repository:** [SignalOps](https://github.com/rajkaushall/SignalOps)
+A full-stack incident management system designed to help engineering teams monitor services, evaluate alerts, and manage operational incidents.
+
+**Implemented Features**
+- JWT authentication with refresh-token rotation
+- Multi-tenant organizations, teams, and services
+- Service API keys and log ingestion
+- Asynchronous alert processing using Redis and BullMQ
+- Automatic incident creation and incident timelines
+- React-based operations dashboard
+- Backend unit and integration tests
+- GitHub Actions backend CI
+
+**Tech Stack**
+- Backend: Node.js, Express.js
+- Frontend: React, Vite
+- Database: MongoDB, Mongoose
+- Queue: Redis, BullMQ
+- Testing: Jest, Supertest
+- Infrastructure: Docker Compose
+
+**Status:** MVP implemented; additional AI-based analysis and observability features are planned.
+
+**Repository:** [SignalOps](https://github.com/rajkaushall/signalops)
+
 
 ---
 
